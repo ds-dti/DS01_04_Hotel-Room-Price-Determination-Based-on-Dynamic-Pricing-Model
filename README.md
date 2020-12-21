@@ -14,6 +14,12 @@ Link Youtube:
 https://youtu.be/sj7V8fQjWBM
 
 ## Dataset
-Dataset diambil dari data hotel yang ada pada aplikasi Online Travel Agent. Harga dan tanggal pada dataset tidak real masih berdasarkan asumsi dari review pelanggan Hotel Ibis Trans Studio Bandung.
+Dataset diambil dari data hotel yang ada pada aplikasi Online Travel Agent. Harga dan tanggal pada dataset tidak real masih berdasarkan asumsi dari review pelanggan Hotel Ibis Trans Studio Bandung. Nantinya ketika mendapatkan data real dai hotel maka akan lebih meminimalisr error yang terjadi.
 
 ## Alur Sistem
+![Alur](https://user-images.githubusercontent.com/66118303/102738979-5b33e500-437e-11eb-8cc3-83b332db59c4.png)
+
+## Cara Penggunaan
+1. Clone atau download repository ini.
+2. Pastikan terdapat python 3.7
+3. 
